@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Communications|SchDesignator=Communications|FileName=Communications.SchDoc|SymbolType=Normal|RawFileName=Communications.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Signals|SchDesignator=Signals|FileName=Signals.SchDoc|SymbolType=Normal|RawFileName=Signals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
