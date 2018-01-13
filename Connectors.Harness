@@ -1,4 +1,4 @@
 CAN_PHYS=CAN_L,CAN_H
 Debug=SWDIO,SWCLK,SWO,NRST
-Signals=PUSH-TO-TALK,HORN,RESET,CONTEXT,VOLUME UP,VOLUME DOWN,NEXT SONG,LAST SONG,BRAKE SWITCH,REGEN BREAKING,ACCELERATION,SIGNAL LIGHTS LEFT,SIGNAL LIGHTS RIGHT,HEADLIGHTS OFF,HEADLIGHTS LOW,HEADLIGHTS HIGH,AUX,FORWARD,REVERSE,INTERIOR LIGHTS,HAZARD LIGHTS
+Signals=Push-To-Talk,Horn,Reset,Context,Volume Up,Volume Down,Next Song,Last Song,Brake Switch,Regen Breaking,Acceleration,Signal Lights Left,Signal Lights Right,Headlights Off,Headlights Low,Headlights High,Aux,Forward,Reverse,Interior Lights,Hazard Lights
 UART=TX,RX
